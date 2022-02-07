@@ -23,7 +23,7 @@
 
 - https://github.com/poliroid
 - https://github.com/spoter
-- https://github.com/StranikS-Sca]
+- https://github.com/StranikS-Scan
 - https://github.com/PolyacovYury
 - https://github.com/Armagomen
 - https://github.com/CH4MPi
@@ -50,7 +50,7 @@ Special thanks for people that gave any help and for their work:
 
 - https://github.com/poliroid
 - https://github.com/spoter
-- https://github.com/StranikS-Sca]
+- https://github.com/StranikS-Scan
 - https://github.com/PolyacovYury
 - https://github.com/Armagomen
 - https://github.com/CH4MPi
