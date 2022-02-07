@@ -16,6 +16,21 @@
 
 - [BattleEquipment](./battleEquipment/): Отображение текущего пресета оборудования в бою
 - [Presence](./presence/): Отображение расширеного статуса игрока в Discord RPC
+
+### Благодарности
+
+Отдельная благодарность данным людям за различную помощь, а также за другие труды:
+
+@poliroid
+@spoter
+@StranikS_Scan
+@Polyacov_Yury
+@Armagomen
+@CH4MPi
+@IzeBerg
+
+а также те, которых я забыл упомянуть
+
 ## EN
 Modifications for World of Tanks
 
@@ -28,3 +43,17 @@ Modifications for World of Tanks
 
 - [BattleEquipment](./battleEquipment/): Show current equipment preset in battle
 - [Presence](./presence/): Show extended game status in Discord RPC
+
+### Thanks to:
+
+Special thanks for people that gave any help and for their work:
+
+@poliroid
+@spoter
+@StranikS_Scan
+@Polyacov_Yury
+@Armagomen
+@CH4MPi
+@IzeBerg
+
+and those whom I could forget
