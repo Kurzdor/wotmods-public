@@ -21,13 +21,13 @@
 
 Отдельная благодарность данным людям за различную помощь, а также за другие труды:
 
-- (@poliroid)[https://github.com/poliroid]
-- (@spoter)[https://github.com/spoter]
-- (@StranikS_Scan)[https://github.com/StranikS-Scan]
-- (@PolyacovYury)[https://github.com/PolyacovYury]
-- (@Armagomen)[https://github.com/Armagomen]
-- (@CH4MPi)[https://github.com/CH4MPi]
-- (@IzeBerg)[https://github.com/IzeBerg]
+- https://github.com/poliroid
+- https://github.com/spoter
+- https://github.com/StranikS-Sca]
+- https://github.com/PolyacovYury
+- https://github.com/Armagomen
+- https://github.com/CH4MPi
+- https://github.com/IzeBerg
 
 а также те, которых я забыл упомянуть
 
@@ -48,12 +48,12 @@ Modifications for World of Tanks
 
 Special thanks for people that gave any help and for their work:
 
-- (@poliroid)[https://github.com/poliroid]
-- (@spoter)[https://github.com/spoter]
-- (@StranikS_Scan)[https://github.com/StranikS-Scan]
-- (@PolyacovYury)[https://github.com/PolyacovYury]
-- (@Armagomen)[https://github.com/Armagomen]
-- (@CH4MPi)[https://github.com/CH4MPi]
-- (@IzeBerg)[https://github.com/IzeBerg]
+- https://github.com/poliroid
+- https://github.com/spoter
+- https://github.com/StranikS-Sca]
+- https://github.com/PolyacovYury
+- https://github.com/Armagomen
+- https://github.com/CH4MPi
+- https://github.com/IzeBerg
 
 and those whom I could forget
