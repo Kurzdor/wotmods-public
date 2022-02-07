@@ -21,13 +21,13 @@
 
 Отдельная благодарность данным людям за различную помощь, а также за другие труды:
 
-@poliroid
-@spoter
-@StranikS_Scan
-@Polyacov_Yury
-@Armagomen
-@CH4MPi
-@IzeBerg
+- @poliroid
+- @spoter
+- @StranikS_Scan
+- @Polyacov_Yury
+- @Armagomen
+- @CH4MPi
+- @IzeBerg
 
 а также те, которых я забыл упомянуть
 
@@ -48,12 +48,12 @@ Modifications for World of Tanks
 
 Special thanks for people that gave any help and for their work:
 
-@poliroid
-@spoter
-@StranikS_Scan
-@Polyacov_Yury
-@Armagomen
-@CH4MPi
-@IzeBerg
+- @poliroid
+- @spoter
+- @StranikS_Scan
+- @Polyacov_Yury
+- @Armagomen
+- @CH4MPi
+- @IzeBerg
 
 and those whom I could forget
