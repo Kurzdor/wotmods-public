@@ -1,8 +1,8 @@
 # Outlining Colors
 
 <center>
-  ![Screenshot 1](./assets/1.png)
-  ![Screenshot 2](./assets/2.png)
-  ![Screenshot 3](./assets/3.png)
-  ![Screenshot 4](./assets/4.png)
+  <img src="./assets/1.png" alt="Screenshot 1"/>
+  <img src="./assets/2.png" alt="Screenshot 2"/>
+  <img src="./assets/3.png" alt="Screenshot 3"/>
+  <img src="./assets/4.png" alt="Screenshot 4"/>
 </center>
