@@ -16,6 +16,7 @@
 
 - [BattleEquipment](./battleEquipment/): Отображение текущего пресета оборудования в бою
 - [Presence](./presence/): Отображение расширеного статуса игрока в Discord RPC
+- [Outlining Colors](./outliningcolors/): Изменение цветов обводки и заливки при наведении на танк 
 
 ### Благодарности
 
@@ -43,6 +44,7 @@ Modifications for World of Tanks
 
 - [BattleEquipment](./battleEquipment/): Show current equipment preset in battle
 - [Presence](./presence/): Show extended game status in Discord RPC
+- [Outlining Colors](./outliningcolors/): Change outlining and fill colors when pointing at the tank
 
 ### Thanks to:
 
