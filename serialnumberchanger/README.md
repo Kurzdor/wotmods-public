@@ -10,14 +10,14 @@ Mod replaces serial number on unique styles to one of modes:
 **Thanks [OldSkool](https://github.com/deadhat) and EngineExt for screenshots**
 
 <p align="center">
-  <b>predefined value by user</b>
-  <img src="./assets/1.png" alt="Screenshot 1"/>
-  <b>Kill counter (i.e. StatTrak or BATTLESTAT)</b>
-  <img src="./assets/2.png" alt="Screenshot 2"/>
-  <b>predefined value by user</b>
-  <img src="./assets/3.png" alt="Screenshot 3"/>
-  <b>Kill counter (i.e. StatTrak or BATTLESTAT)</b>
-  <img src="./assets/4.png" alt="Screenshot 4"/>
+  <b>predefined value by user</b><br />
+  <img src="./assets/1.png" alt="Screenshot 1"/><br />
+  <b>Kill counter (i.e. StatTrak or BATTLESTAT)</b><br />
+  <img src="./assets/2.png" alt="Screenshot 2"/><br />
+  <b>predefined value by user</b><br />
+  <img src="./assets/3.png" alt="Screenshot 3"/><br />
+  <b>Kill counter (i.e. StatTrak or BATTLESTAT)</b><br />
+  <img src="./assets/4.png" alt="Screenshot 4"/><br />
 </p>
 
 ## Legals
