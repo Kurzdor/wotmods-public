@@ -22,5 +22,5 @@ Mod replaces serial number on unique styles to one of modes:
 
 ## Legals
 
-CS:GO, Counter-Strike: Global Offensive, StatTrak and all related logos are trademarks of Valve Corporation or its affiliates.
+CS:GO, Counter-Strike: Global Offensive, StatTrak and all related logos are trademarks of Valve Corporation or its affiliates.  
 PUBG, PLAYERUNKNOWN’S BATTLEGROUNDS, BATTLESTAT and all related logos are trademarks of PUBG Corporation or its affiliates.
