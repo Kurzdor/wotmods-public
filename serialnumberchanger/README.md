@@ -7,6 +7,8 @@ Mod replaces serial number on unique styles to one of modes:
 
 ## Screenshots
 
+**Thanks [OldSkool](https://github.com/deadhat) and EngineExt for screenshots**
+
 <p align="center">
   <img src="./assets/1.png" alt="Screenshot 1"/>
   <img src="./assets/2.png" alt="Screenshot 2"/>
