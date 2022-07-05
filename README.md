@@ -17,7 +17,8 @@
 - [BattleEquipment](./battleEquipment/): Отображение текущего пресета оборудования в бою
 - [Presence](./presence/): Отображение расширеного статуса игрока в Discord RPC
 - [Outlining Colors](./outliningcolors/): Изменение цветов обводки и заливки при наведении на танк
-- [Serial Number Changer](./serialnumberchanger/): Измените серийный номер на значение, которое хотите либо отобразите количество фрагов на данном танке вместо него
+- [Serial Number Changer](./serialnumberchanger/): Изменение серийного номера на любое другое значение: от любого другого значения до количества фрагов и отметки до боя
+- [Vehicle State](./vehiclestate/): Отображение расширенной информации про состояние техники игрока - очки здоровья до информации про заряженный снаряд в данный момент
 
 ### Благодарности
 
@@ -46,7 +47,8 @@ Modifications for World of Tanks
 - [BattleEquipment](./battleEquipment/): Show current equipment preset in battle
 - [Presence](./presence/): Show extended game status in Discord RPC
 - [Outlining Colors](./outliningcolors/): Change outlining and fill colors when pointing at the tank
-- [Serial Number Changer](./serialnumberchanger/): Change serial number to predefined value or make it show your kill count on vehicle
+- [Serial Number Changer](./serialnumberchanger/): Change your serial number to any value: from any value to frags count or current MoE percent
+- [Vehicle State](./vehiclestate/): Отображение расширенной информации про состояние техники игрока - очки здоровья до информации про заряженный снаряд в данный момент
 
 ### Thanks to:
 
