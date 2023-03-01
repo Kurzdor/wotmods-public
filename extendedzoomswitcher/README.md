@@ -5,7 +5,7 @@ Adds ability to switch extended zoom setting in battle by key
 ## Screenshots
 
 <p align="center">
-  <img src="./assets/preview.jpg" alt="Preview"/><br />
+  <img src="./assets/preview.png" alt="Preview"/><br />
 </p>
 
 ## Credits
