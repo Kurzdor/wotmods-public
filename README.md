@@ -14,7 +14,8 @@
 
 ### Список модификаций
 
-- [BattleEquipment](./battleEquipment/): Отображение текущего пресета оборудования в бою
+- [BattleEquipment](./battleequipment/): Отображение текущего пресета оборудования в бою
+- [Extended Zoom Switcher](./extendedzoomswitcher/): Быстрое переключение расширеного зума
 - [Presence](./presence/): Отображение расширеного статуса игрока в Discord RPC
 - [Outlining Colors](./outliningcolors/): Изменение цветов обводки и заливки при наведении на танк
 - [Serial Number Changer](./serialnumberchanger/): Изменение серийного номера на любое другое значение: от любого другого значения до количества фрагов и отметки до боя
@@ -44,7 +45,8 @@ Modifications for World of Tanks
 
 ### List of modifications
 
-- [BattleEquipment](./battleEquipment/): Show current equipment preset in battle
+- [Battle Equipment](./battleEquipment/): Show current equipment preset in battle
+- [Extended Zoom Switcher](./extendedzoomswitcher/): Quick extended zoom switcher by hotkey
 - [Presence](./presence/): Show extended game status in Discord RPC
 - [Outlining Colors](./outliningcolors/): Change outlining and fill colors when pointing at the tank
 - [Serial Number Changer](./serialnumberchanger/): Change your serial number to any value: from any value to frags count or current MoE percent
