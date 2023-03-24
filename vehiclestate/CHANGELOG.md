@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### v1.10.1
+
+- Added compatibility with Onslaught gamemode (1.20.1 CT)
+- Fixed issue when player re-entered battle which already started (after timer)
+
 ### v1.10.0
 
 - Added config versioning and enhanced config migration
