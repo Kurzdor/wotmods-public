@@ -14,7 +14,8 @@
 
 ### Список модификаций
 
-- [BattleEquipment](./battleequipment/): Отображение текущего пресета оборудования в бою
+- [Auto Equipment Return](./autoequipmentreturn/): Автоматическое возвращение оборудования с помощью WoT Plus
+- [Battle Equipment](./battleequipment/): Отображение текущего пресета оборудования в бою
 - [Extended Zoom Switcher](./extendedzoomswitcher/): Быстрое переключение расширеного зума
 - [Presence](./presence/): Отображение расширеного статуса игрока в Discord RPC
 - [Outlining Colors](./outliningcolors/): Изменение цветов обводки и заливки при наведении на танк
@@ -45,6 +46,7 @@ Modifications for World of Tanks
 
 ### List of modifications
 
+- [Auto Equipment Return](./autoequipmentreturn/): Auto equipment return with WoT Plus
 - [Battle Equipment](./battleEquipment/): Show current equipment preset in battle
 - [Extended Zoom Switcher](./extendedzoomswitcher/): Quick extended zoom switcher by hotkey
 - [Presence](./presence/): Show extended game status in Discord RPC
