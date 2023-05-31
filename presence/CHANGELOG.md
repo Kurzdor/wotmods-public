@@ -1,5 +1,22 @@
 # CHANGELOG
 
+### 1.17.0
+
+- Added support for new Frontline map - Fata Morgana
+- Updated support for new Steel Hunter branch
+- Cleanup after Cosmic Event
+- Minor code cleanup
+
+### v1.16.1
+
+- Hotfix for Cosmic Event
+- Fixed wrong vehicle name in Cosmic Event
+- Fixed issue when long vehicle name was used instead of short
+
+### v1.16.0
+
+- Added Cosmic Event support (WG only)
+
 ### v1.15.0
 
 - Added Winback/Warm-up gamemode support
