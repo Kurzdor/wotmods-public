@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### 1.18.0
+
+- Added support for new Arcade night mode maps
+- Added Ukranian localization
+- Added better handling of clients in future per type and realm
+- Minor changes in language getter
+- Cleanup after previous game modes
+
 ### 1.17.0
 
 - Added support for new Frontline map - Fata Morgana
