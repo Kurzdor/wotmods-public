@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### v1.6.1
+
+- Fixed wrong or missing localization in some cases
+
 ### v1.6.0
 
 - Reworked file and config loader
