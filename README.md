@@ -14,6 +14,7 @@ Modifications for World of Tanks
 
 ### List of modifications
 
+- [Advanced Personal Efficiency](./advancedpersonalefficiency/): Extends default personal efficiency counters near damage panel
 - [Auto Equipment Return](./autoequipmentreturn/): Auto equipment return with WoT Plus
 - [Battle Equipment](./battleEquipment/): Show current equipment preset in battle
 - [Extended Zoom Switcher](./extendedzoomswitcher/): Quick extended zoom switcher by hotkey
@@ -46,6 +47,7 @@ and those whom I could forget
 
 ### Список модификаций
 
+- [Advanced Personal Efficiency](./advancedpersonalefficiency/): Расширение возможностей стандартных счетчиков личной эффективности рядом с панелью повреждений
 - [Auto Equipment Return](./autoequipmentreturn/): Автоматическое возвращение оборудования с помощью WoT Plus
 - [Battle Equipment](./battleequipment/): Отображение текущего пресета оборудования в бою
 - [Extended Zoom Switcher](./extendedzoomswitcher/): Быстрое переключение расширеного зума
