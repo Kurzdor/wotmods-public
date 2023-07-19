@@ -1,5 +1,14 @@
 # CHANGELOG
 
+
+### v2.0.2
+
+- Cleanup after Cosmic Event
+
+### v2.0.1
+
+- Added Cosmic Event to excluded gamemodes 
+
 ### v2.0.0
 
 - Major update
