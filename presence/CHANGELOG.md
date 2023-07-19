@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.19.0
+
+- Support for the Overwhelming Fire Event
+- Cleanup after Night battles
+
 ### 1.18.0
 
 - Added support for new Arcade night mode maps
