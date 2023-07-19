@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### v1.10.3
+
+- Upstream to 1.21.1.0 codebase
+- Temporarily removed gamemode exclusion
+
+### v1.10.2
+
+- Added cosmic event to excluded game modes from mod processing
+
 ### v1.10.1
 
 - Added compatibility with Onslaught gamemode (1.20.1 CT)
