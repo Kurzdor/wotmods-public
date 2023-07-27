@@ -1,6 +1,10 @@
 # CHANGELOG
 
 
+### 2.0.3
+
+- Fix for client CTD when missing IO permissions on config folder
+
 ### v2.0.2
 
 - Cleanup after Cosmic Event
