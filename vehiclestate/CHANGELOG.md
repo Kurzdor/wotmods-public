@@ -1,20 +1,29 @@
 # CHANGELOG
 
-### v1.10.3
+### 1.11.0
+
+- Returned game mode exclusion system
+- Upstream aiming info codebase to 1.22 CT
+- Added `N/A` status to gun pitch limits in case of missing vehicle descriptor (read next changelog entry)
+- Fix for missing vehicle descriptor when updating current shell info
+- Minor changes for mod functionality disabling system
+- Minor update for mod's metafile
+
+### 1.10.3
 
 - Upstream to 1.21.1.0 codebase
 - Temporarily removed gamemode exclusion
 
-### v1.10.2
+### 1.10.2
 
 - Added cosmic event to excluded game modes from mod processing
 
-### v1.10.1
+### 1.10.1
 
 - Added compatibility with Onslaught gamemode (1.20.1 CT)
 - Fixed issue when player re-entered battle which already started (after timer)
 
-### v1.10.0
+### 1.10.0
 
 - Added config versioning and enhanced config migration
 - Added comments for macroses and other important things in default config
@@ -35,59 +44,59 @@
 - Fixed empty space before battle starts when aiming timer was enabled
 - Now tip uses localization from l10n file as expected
 
-### v1.9.0
+### 1.9.0
 
 - Added shellSpeed macros to shell info
 
-### v1.8.1
+### 1.8.1
 
 - Added memoization for localization strings calls - (с) poliroid
 - Minor changes
 
-### v1.8.0
+### 1.8.0
 
 - Fix for missing shell info on battle start
 - Refactor for health info module
 - Minor changes
 
-### v1.7.0
+### 1.7.0
 
 - Added aiming timer, disabled by default. Available in mod settings in garage.
 - Added support for color blind
 - Added Ukranian localization
 - Updated localizations
 
-### v1.6.0
+### 1.6.0
 
 - Added shell damage macroses incl. shell damage dispersion
 - Updated locale files
 
-### v1.5.2
+### 1.5.2
 
 - Fix for forcing wrong language
 
-### v1.5.1
+### 1.5.1
 
 - Added support for respawn mechanic in battles
 
-### v1.5.0
+### 1.5.0
 
 - Changed path where l10n files are stored in VFS
 - Minor changes
 
-### v1.4.0
+### 1.4.0
 
 - Added Polish translation - (c) Aslain
 - Updated way of loading locales for mod. They aren't located in mods/configs folder now.
 
-### v1.3.0
+### 1.3.0
 
 - Added new `visible` property to config (to save state between game relaunch)
 - Added config migrations for new config property visible
 - Fixed a bug when showing/hiding panel in battle didn't work as it should
 - Fixed a bug when l10n loader tried to load and apply empty l10n data
 
-### v1.2.0
+### 1.2.0
 
 - Added health info and shell info templates to GUI configurator and config file
 - Added text shadow settings to config file (not present in GUI configurator!)
@@ -98,6 +107,6 @@
 - Added config migration because of templates and text shadow settings were added. Your config will be automatically updated if it doesn't have templates or shadow field
 - Fixed bug when settings applied via GUI configurator didn't save
 
-### v1.0.0
+### 1.0.0
 
 - Initial release
