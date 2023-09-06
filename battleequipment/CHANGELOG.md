@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.0.4
+
+- Added `Story Mode` and `Versus AI (Lesta only)` AI game modes to exclusion
+- Added support for separated game modes exclusion for Lesta
 
 ### 2.0.3
 
