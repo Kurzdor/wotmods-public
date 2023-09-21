@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.21.0
+
+- Added support Waffentrager event (Wargaming only)
+
 ### 1.20.0
 
 - Added support for new map - Stalingrad (Lesta only)
