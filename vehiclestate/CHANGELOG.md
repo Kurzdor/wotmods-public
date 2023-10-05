@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.12.0
+
+- Reworked panel visibility system
+- Internal patch to fix GUIFlash bug
+
 ### 1.11.0
 
 - Returned game mode exclusion system
