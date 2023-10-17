@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### 1.12.2
+
+- Minor shared codebase sync with other mods
+
+### 1.12.1
+
+- Minor rework to support flamethrower as arty mode
+
 ### 1.12.0
 
 - Reworked panel visibility system
