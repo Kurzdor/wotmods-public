@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### v1.3.3
+
+- Another minor flash rework
+
+### v1.3.2
+
+- Minor flash changes
+
 ### v1.3.1
 
 - Added Polish translation - (c) Aslain
