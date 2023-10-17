@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.0.5
+
+- Added new Halloween (WG) event to exclusion list
+
 ### 2.0.4
 
 - Added `Story Mode` and `Versus AI (Lesta only)` AI game modes to exclusion
