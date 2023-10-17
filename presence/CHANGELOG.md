@@ -1,5 +1,19 @@
 # CHANGELOG
 
+### 2.0.0
+
+- Added split support for two clients
+- Added TweakVar system (WIP)
+- Added Polish localization (Aslain)
+- Added localization overrides
+- Moved localizations to external YAML files
+- Reworked client type getter
+- Reworked localization system
+- Refactored parts of code to built-in similar helper methods from game
+- Fixed obsolete extra l10n getter call in replays
+- Fixed bug with Versus AI mode small image in status
+- Minor refactor in controller module
+
 ### 1.21.0
 
 - Added support Waffentrager event (Wargaming only)
