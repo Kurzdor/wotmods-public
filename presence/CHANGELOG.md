@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.0.1
+
+- Use elapsed time in status when playing Halloween (WG) battle
+
 ### 2.0.0
 
 - Added split support for two clients
