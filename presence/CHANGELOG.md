@@ -1,5 +1,12 @@
 # CHANGELOG
 
+### 2.1.0
+
+- Added enhanced elapsed time handler in specific battle types
+- Fixed bug when in arena waiting time would show elapsed time instead of remaining to start the battle
+- Fixed bug when elapsed time didn't save when transitioning from battle to killed status in specific battle types (Halloween)
+- Minor code refactor with moving code to separate utillity methods
+
 ### 2.0.1
 
 - Use elapsed time in status when playing Halloween (WG) battle
