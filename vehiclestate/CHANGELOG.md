@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### 1.13.0
+
+- Added `%(gunElevation)s` macros to shell info template (Scharfhobel/KR)
+- Added `%(gunDepression)s` macros to shell info template (Scharfhobel/KR)
+- Added ability to enable pretty number format
+- Updated l10n files due to new setting
+- Bumped config version
+
 ### 1.12.2
 
 - Minor shared codebase sync with other mods
