@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### v.1.3.4
+
+- Fixed missing Polish localization even on client with Polish language enabled
+
 ### v1.3.3
 
 - Another minor flash rework
