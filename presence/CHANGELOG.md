@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### 2.2.0
+
+- Added German localization (Flachzange)
+- Added better support for Arcade Cabinet
+- Added support for Lesta Arcade Cabinet submodes
+- Fixed issues with battle queue entering and leaving when player is in squad
+- Cleanup
+
 ### 2.1.0
 
 - Added enhanced elapsed time handler in specific battle types
