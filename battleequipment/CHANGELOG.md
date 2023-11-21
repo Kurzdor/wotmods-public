@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 2.0.6
+
+- Improved view loading logic
+- Remove Versus AI battles from exclusion list (Lesta only)
+
 ### 2.0.5
 
 - Added new Halloween (WG) event to exclusion list
