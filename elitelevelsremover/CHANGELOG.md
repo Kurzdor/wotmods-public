@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.4.3
+
+- Added settings migration support
+- Renamed `disablePrestigeRewardWindow` to `hidePrestigeRewardWindow` setting to keep consistency
+
 ### 1.4.2
 
 - Added fool protection that prevents from modification loading on non-original clients
