@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 2.3.0
+
+- Refactored vehicle, queue and arena data providers
+- Minor refactor
+
 ### 2.2.0
 
 - Added German localization (Flachzange)
