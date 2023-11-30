@@ -19,6 +19,7 @@ Modifications for World of Tanks
 - [Battle Equipment](./battleEquipment/): Show current equipment preset in battle
 - [Elite Levels Remover](./elitelevelsremover/): Visually removes Elite Levels (i.e. Prestige) system from every possible place in game
 - [Extended Zoom Switcher](./extendedzoomswitcher/): Quick extended zoom switcher by hotkey
+- [Free XP Helper](./freexphelper/): Helper for free XP exchange window to prevent exchanging XP for non-fully researched or progressed vehicles
 - [Presence](./presence/): Show extended game status in Discord RPC
 - [Outlining Colors](./outliningcolors/): Change outlining and fill colors when pointing at the tank
 - [Serial Number Changer](./serialnumberchanger/): Change your serial number to any value: from any value to frags count or current MoE percent
@@ -53,6 +54,7 @@ and those whom I could forget
 - [Battle Equipment](./battleequipment/): Отображение текущего пресета оборудования в бою
 - [Elite Levels Remover](./elitelevelsremover/): Визуально убирает систему уровней элитности со всех возможных мест в игре
 - [Extended Zoom Switcher](./extendedzoomswitcher/): Быстрое переключение расширеного зума
+- [Free XP Helper](./freexphelper/): Запрет на перевод свободного опыта, если техника не полностью прокачена либо полевая модернизация не прокачана полностью
 - [Presence](./presence/): Отображение расширеного статуса игрока в Discord RPC
 - [Outlining Colors](./outliningcolors/): Изменение цветов обводки и заливки при наведении на танк
 - [Serial Number Changer](./serialnumberchanger/): Изменение серийного номера на любое другое значение: от любого другого значения до количества фрагов и отметки до боя
