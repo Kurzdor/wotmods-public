@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### v.1.3.8
+
+- Fixed missing decorator argument
+
 ### v.1.3.7
 
 - Sync up shared codebase and fixes
