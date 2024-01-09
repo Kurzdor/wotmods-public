@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### v2.2.1
+
+- Sync up shared codebase and fixes
+
 ### v2.2.0
 
 - Added sound notification when setting is toggled by mod which is bound whether show message option is enabled or no
