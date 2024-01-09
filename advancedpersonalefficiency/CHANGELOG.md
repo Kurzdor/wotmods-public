@@ -1,5 +1,15 @@
 # CHANGELOG
 
+### v.1.3.7
+
+- Sync up shared codebase and fixes
+- Ignore cases when no additional efficiency fields are enabled in settings
+- Minor refactor
+
+### v.1.3.6
+
+- Minor fixes for AS3 method hooks
+
 ### 1.3.5
 
 - Improved view loading logic
