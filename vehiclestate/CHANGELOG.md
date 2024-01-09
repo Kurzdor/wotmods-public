@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### 1.13.2
+
+- Sync up shared codebase and fixes
+
+### 1.13.1
+
+- Fixed bug in Polish localization that caused it to not load
+- Fixed pitch limits getter for arty in strategic mode
+
 ### 1.13.0
 
 - Added `%(gunElevation)s` macros to shell info template (Scharfhobel/KR)
