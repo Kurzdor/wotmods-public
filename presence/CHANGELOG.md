@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### 2.4.0
+
+- Added Hungarian language support (Sanci_Rex with some my changes for new features)
+- Added battle loading status support
+- Added arena leaving status support
+- Updated localizations
+- Fixed issue when sometimes inLobby status with arena preview image would fire because of queueing handling rework
+- Refactored some parts of controller
+
 ### 2.3.0
 
 - Refactored vehicle, queue and arena data providers
