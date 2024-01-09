@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.0.4
+
+- Sync shared codebase
+
 ### 1.0.3
 
 - Fixed broken hooks due to New Year 2024 patch
