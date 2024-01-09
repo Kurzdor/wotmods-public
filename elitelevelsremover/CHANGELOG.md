@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.4
+
+- Sync up shared codebase and fixes
+
 ### 1.4.3
 
 - Added settings migration support
