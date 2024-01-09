@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.0.1
+
+- Fixed missing battle booster icon
+
 ### 3.0.0
 
 - Added dynamic slot rendering system depending on defined slot counts by game design
