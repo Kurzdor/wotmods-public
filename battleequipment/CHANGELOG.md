@@ -1,5 +1,25 @@
 # CHANGELOG
 
+### 3.0.0
+
+- Added dynamic slot rendering system depending on defined slot counts by game design
+- Added ability to drag panel in screen bounds under 'Free' position setting in GUI settings
+- Added ability to show current setup index badge with tooltip
+- Added ability to instantly show panel when setup selection is not available with Onslaught battle mode respect
+- Added battle booster compatibility icon (i.e. shown when wrong battle booster is used, copied directly WG implementation from hangar/garage)
+- Added disabled slot when it's empty
+- Added memoization for settings entries with invalidation ability for whole or parts of memoized values
+- Added initial support for respawns or ability to reset panel in battle (i.e. Frontline mode)
+- Added 'showBadge' entry to settings to toggle current setup index badge
+- Added 'offset' entry to settings
+- Modification will ignore battles when current vehicle has no slots by game design
+- Improved panel visibility system
+- Updated localizations
+- Fixed radial menu child stack issue
+- Fixed Polish localization being ignored by modification
+- Refactored many parts of modification
+- Synced shared codebase
+
 ### 2.0.6
 
 - Improved view loading logic
