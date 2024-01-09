@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### v1.4.2
+
+- Sync up shared codebase and fixes
+
 ### v1.4.1
 
 - Fixed wrong or missing localization in some cases
