@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### v1.6.2
+
+- Reworked localizations and tooltips in GUI settings configurator
+- Sync up shared codebase and fixes
+
 ### v1.6.1
 
 - Fixed wrong or missing localization in some cases
