@@ -1,5 +1,15 @@
 # CHANGELOG
 
+### 3.0.2
+
+- Improved handling of dynamically added slots before panel enter animation
+- Refactored parts of slot dynamic rendering logic
+- Refactored animation logic
+- Fixed panel position when left or right position options was used (more space as WG's consumables panel has for its items in between)
+- Fixed wrong panel position in Onslaught battle type
+- Disabled modification in Maps Training battle type
+- Update project to Animate 2024
+
 ### 3.0.1
 
 - Fixed missing battle booster icon
