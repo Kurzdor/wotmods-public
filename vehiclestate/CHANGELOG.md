@@ -1,5 +1,12 @@
 # CHANGELOG
 
+### 1.14.0
+
+- Added ability to display dual accuracy (gun cooling) cooling delay for Japanese heavy tanks
+- Added `coolingDelayTimer` key to config
+- Updated localizations
+- Initial localization, view, controller and visibility system refactor
+
 ### 1.13.2
 
 - Sync up shared codebase and fixes
