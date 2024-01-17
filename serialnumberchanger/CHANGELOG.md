@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### v1.6.3
+
+- Hotfix for added localization
+
+
 ### v1.6.2
 
 - Reworked localizations and tooltips in GUI settings configurator
