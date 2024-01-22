@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 3.0.3
+
+- Fixed error in case of missing config file
+- Fixed localizations
+- Minor cleanup
+
 ### 3.0.2
 
 - Improved handling of dynamically added slots before panel enter animation
