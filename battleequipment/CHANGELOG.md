@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 3.0.4
+
+- Properly handle game finalization event
+- Improved error handling when reading JSON file
+- Minor refactor
+
 ### 3.0.3
 
 - Fixed error in case of missing config file
