@@ -1,16 +1,21 @@
 # CHANGELOG
 
-### v.1.3.8
+### 1.3.9
+
+- Prevent replacing native WG assist counter when replace mode is enabled but modified assist counter is disabled
+- Update project to Animate 2024
+
+### 1.3.8
 
 - Fixed missing decorator argument
 
-### v.1.3.7
+### 1.3.7
 
 - Sync up shared codebase and fixes
 - Ignore cases when no additional efficiency fields are enabled in settings
 - Minor refactor
 
-### v.1.3.6
+### 1.3.6
 
 - Minor fixes for AS3 method hooks
 
