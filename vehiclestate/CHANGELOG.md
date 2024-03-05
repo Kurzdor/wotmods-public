@@ -1,5 +1,12 @@
 # CHANGELOG
 
+### 1.14.1
+
+- Added Cosmic Event battle type to ignore list
+- Fixed issue with shell damage getter changes in 1.24 WG CT
+- Refactored cooling delay timer logic
+- Minor exclusion list refactor
+
 ### 1.14.0
 
 - Added ability to display dual accuracy (gun cooling) cooling delay for Japanese heavy tanks
