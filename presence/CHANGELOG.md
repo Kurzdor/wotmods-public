@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 2.5.0
+
+- Added support for Cosmic Event back
+- Cleanup after NY event
+
 ### 2.4.0
 
 - Added Hungarian language support (Sanci_Rex with some my changes for new features)
