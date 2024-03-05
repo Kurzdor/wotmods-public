@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.0.5
+
+- Added Cosmic Event battle type to ignore list
+- Minor exclusion list refactor
+
 ### 3.0.4
 
 - Properly handle game finalization event
