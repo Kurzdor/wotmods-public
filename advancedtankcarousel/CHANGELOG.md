@@ -1,9 +1,10 @@
 # CHANGELOG
 
-### 0.3.1 (WIP)
+### 0.4.0 (WIP)
 
 - Added option to enforce small carousel slots
 - Added Polish localization (Aslain)
+- Now it's possible to set maximum count of 10 rows in settings
 - Updated localizations
 
 ### 0.3.1 (WIP)
