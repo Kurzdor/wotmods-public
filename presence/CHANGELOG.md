@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.6.0
+
+- Added support for Steel Hunter: Shamrock Showdown
+
 ### 2.5.0
 
 - Added support for Cosmic Event back
