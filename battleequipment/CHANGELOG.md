@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.0.6
+
+- Fixed possible type descriptor related crashes
+
 ### 3.0.5
 
 - Added Cosmic Event battle type to ignore list
