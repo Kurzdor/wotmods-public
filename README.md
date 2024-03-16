@@ -14,6 +14,7 @@ Modifications for World of Tanks
 
 ### List of modifications
 
+- [Advanced Consumables Panel](./advancedtankcarousel/): Enhance your consumables panel in battle
 - [Advanced Personal Efficiency](./advancedpersonalefficiency/): Extends default personal efficiency counters near damage panel
 - [Advanced Tank Carousel (WIP)](./advancedtankcarousel/): Enhance your tank carousel
 - [Auto Equipment Return](./autoequipmentreturn/): Auto equipment return with WoT Plus
@@ -50,6 +51,7 @@ and those whom I could forget
 
 ### Список модификаций
 
+- [Advanced Consumables Panel](./advancedtankcarousel/): Расширение возможностей панели расходников в ангаре
 - [Advanced Personal Efficiency](./advancedpersonalefficiency/): Расширение возможностей стандартных счетчиков личной эффективности рядом с панелью повреждений
 - [Advanced Tank Carousel (В РАЗРАБОТКЕ)](./advancedtankcarousel/): Расширение возможностей карусели танков в ангаре
 - [Auto Equipment Return](./autoequipmentreturn/): Автоматическое возвращение оборудования с помощью WoT Plus
