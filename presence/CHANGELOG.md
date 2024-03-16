@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.6.1
+
+- Rework error handling
+
 ### 2.6.0
 
 - Added support for Steel Hunter: Shamrock Showdown
