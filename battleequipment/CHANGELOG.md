@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.1.0
+
+- Added proper Frontline support
+
 ### 3.0.6
 
 - Fixed possible type descriptor related crashes
