@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 0.5.0 (WIP)
+
+- Migrate localization system from JSON to YAML
+
 ### 0.4.0 (WIP)
 
 - Added option to enforce small carousel slots
