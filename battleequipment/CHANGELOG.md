@@ -1,5 +1,12 @@
 # CHANGELOG
 
+### 3.2.0
+
+- Added killcam support
+- Added German localization (CHAMPi)
+- Enhanced Frontline support
+- Migrate localization system from JSON to YAML
+
 ### 3.1.0
 
 - Added proper Frontline support
