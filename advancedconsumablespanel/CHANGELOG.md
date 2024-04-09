@@ -1,6 +1,10 @@
 # CHANGELOG
 
-### v1.1.1
+### 1.2.0
+
+- Migrate localization system from JSON to YAML
+
+### 1.1.1
 
 - Fix handling quantity or cooldown label change (i.e. 10 -> 9)
 - Refactored default counter labels processing logic
