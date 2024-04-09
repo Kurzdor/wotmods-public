@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 2.7.0
+
+- Added support for 'Last Moment' view (i.e. KillCam) for WG client
+- Enhanced vehicleDescriptor getter
+- Updated localizations
+
 ### 2.6.1
 
 - Rework error handling
