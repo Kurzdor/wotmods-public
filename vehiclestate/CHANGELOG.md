@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.15.0
+
+- Added support for shell's mutable damage for Polish TDs (WG only) that shows damage like (1000 - 225)
+- Migrate localization system from JSON to YAML
+
 ### 1.14.1
 
 - Added Cosmic Event battle type to ignore list
