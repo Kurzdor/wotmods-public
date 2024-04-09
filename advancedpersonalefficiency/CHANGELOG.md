@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.0
+
+- Migrate localization system from JSON to YAML
+
 ### 1.3.9
 
 - Prevent replacing native WG assist counter when replace mode is enabled but modified assist counter is disabled
