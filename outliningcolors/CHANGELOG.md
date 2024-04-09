@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.5.0
+
+- Migrate localization system from JSON to YAML
+
 ### v1.4.2
 
 - Sync up shared codebase and fixes
