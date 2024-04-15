@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 1.16.0
+
+- Added shellCaliber macros to shell info
+- Updated localizations
+- Minor refactor
+
 ### 1.15.0
 
 - Added support for shell's mutable damage for Polish TDs (WG only) that shows damage like (1000 - 225)
