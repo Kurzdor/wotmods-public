@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 2.8.0
+
+- Added future support for Historical Battles
+- Refactored lobby logic
+
 ### 2.7.0
 
 - Added support for 'Last Moment' view (i.e. KillCam) for WG client
