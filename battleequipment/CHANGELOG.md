@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.2.1
+
+- Fixed desyncing issue in Onslaught when setup index was different from the actual one
+
 ### 3.2.0
 
 - Added killcam support
