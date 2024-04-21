@@ -24,6 +24,7 @@ Modifications for World of Tanks
 - [Free XP Helper](./freexphelper/): Helper for free XP exchange window to prevent exchanging XP for non-fully researched or progressed vehicles
 - [Presence](./presence/): Show extended game status in Discord RPC
 - [Outlining Colors](./outliningcolors/): Change outlining and fill colors when pointing at the tank
+- [Permanently Destroyed](./permanentlydestroyed/): Persist positions of destroyed vehicle icons on minimap
 - [Serial Number Changer](./serialnumberchanger/): Change your serial number to any value: from any value to frags count or current MoE percent
 - [Vehicle State](./vehiclestate/): Отображение расширенной информации про состояние техники игрока - очки здоровья до информации про заряженный снаряд в данный момент
 
@@ -61,6 +62,7 @@ and those whom I could forget
 - [Free XP Helper](./freexphelper/): Запрет на перевод свободного опыта, если техника не полностью прокачена либо полевая модернизация не прокачана полностью
 - [Presence](./presence/): Отображение расширеного статуса игрока в Discord RPC
 - [Outlining Colors](./outliningcolors/): Изменение цветов обводки и заливки при наведении на танк
+- [Permanently Destroyed](./permanentlydestroyed/): Сохранение позиций иконок уничтоженных танков на миникарте
 - [Serial Number Changer](./serialnumberchanger/): Изменение серийного номера на любое другое значение: от любого другого значения до количества фрагов и отметки до боя
 - [Vehicle State](./vehiclestate/): Отображение расширенной информации про состояние техники игрока - очки здоровья до информации про заряженный снаряд в данный момент
 
