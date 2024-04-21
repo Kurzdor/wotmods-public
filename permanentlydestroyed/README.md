@@ -11,4 +11,4 @@ Persist positions of destroyed vehicle icons on minimap / Сохранение �
 
 ## Credits
 
-Thanks [Armagomen](https://github.com/Armagomen) for the initial implementation from [Battle Observer](https://github.com/Armagomen/battle_observer) which unfortunately broke in patch 1.24.1.0.
+Thanks [Armagomen](https://github.com/Armagomen) for the initial implementation from [Battle Observer](https://github.com/Armagomen/battle_observer) which unfortunately broke in patch 1.24.1.0 and fixed by me.
