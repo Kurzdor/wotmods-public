@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.3.1
+
+- Removed obsolete info logs on mod start
+
 ### 2.3.0
 
 - Migrate localization system from JSON to YAML
