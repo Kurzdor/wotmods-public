@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.0.0
+
+- Added support for Cosmic Event on WG
+- Refactored RPC client async way
+
 ### 2.8.0
 
 - Added future support for Historical Battles
