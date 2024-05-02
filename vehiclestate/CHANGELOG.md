@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.16.1
+
+- Removed obsolete info logs on mod start
+
 ### 1.16.0
 
 - Added shellCaliber macros to shell info
