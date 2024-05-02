@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 0.5.1 (WIP)
+
+- Removed obsolete info logs on mod start
+
 ### 0.5.0 (WIP)
 
 - Migrate localization system from JSON to YAML
