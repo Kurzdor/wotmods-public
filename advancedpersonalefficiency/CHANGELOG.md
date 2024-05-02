@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.4.1
+
+- Added Cosmic Event battles to ignore list
+- Removed obsolete info logs on mod start
+
 ### 1.4.0
 
 - Migrate localization system from JSON to YAML
