@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.1.1
+
+- Minor cleanup
+
 ### 1.1.0
 
 - Enhanced stability of patching logic for some battle types
