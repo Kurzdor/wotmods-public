@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.2.2
+
+- Removed obsolete info logs on mod start
+- Minor refactor
+
 ### 3.2.1
 
 - Fixed desyncing issue in Onslaught when setup index was different from the actual one
