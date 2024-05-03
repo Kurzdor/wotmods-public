@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.1.1
+
+- Implemented event lobby logic
+- Fixed issue with cosmic vehicle getter
+
 ### 3.1.0
 
 - Added queue support for Cosmic Event on WG
