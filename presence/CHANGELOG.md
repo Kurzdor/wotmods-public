@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.1.0
+
+- Added queue support for Cosmic Event on WG
+- Improved Cosmic vehicle getter
+
 ### 3.0.0
 
 - Added support for Cosmic Event on WG
