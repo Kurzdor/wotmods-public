@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 3.1.2
+
+- Added support for event lobbies in future
+- Now client should raise exception when we can't find Discord client
+- Properly handle lobby leave in event lobbies
+
 ### 3.1.1
 
 - Implemented event lobby logic
