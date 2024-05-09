@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.1.3
+
+- Properly validate existing Discord pipes
+
 ### 3.1.2
 
 - Added support for event lobbies in future
