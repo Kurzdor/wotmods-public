@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.1.4
+
+- Fix attribute errors related to Cosmic Event battles hooks
+
 ### 3.1.3
 
 - Properly validate existing Discord pipes
