@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 3.2.0
+
+- Added proper support for Story Mode
+- Added support for new Fun Random modes
+- Cleanup after old events
+
 ### 3.1.4
 
 - Fix attribute errors related to Cosmic Event battles hooks
