@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.2.1
+
+- Fixed issue related to server settings getter
+
 ### 3.2.0
 
 - Added proper support for Story Mode
