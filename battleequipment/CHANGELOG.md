@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 3.3.0
+
+- Fixed crash related to missing battle type in ignorelist
+- Fixed battle booster incompatibility logic
+
 ### 3.2.2
 
 - Removed obsolete info logs on mod start
