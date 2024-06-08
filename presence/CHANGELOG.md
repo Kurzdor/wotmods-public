@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.2.2
+
+- Improved Story Mode gamemode vehicle getter
+
 ### 3.2.1
 
 - Fixed issue related to server settings getter
