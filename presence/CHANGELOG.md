@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.3.0
+
+- Support for WoT 1.25.1
+
 ### 3.2.2
 
 - Improved Story Mode gamemode vehicle getter
