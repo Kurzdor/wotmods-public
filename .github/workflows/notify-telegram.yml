@@ -1,0 +1,20 @@
+name: Notify Telegram channel
+on: [push]
+jobs:
+
+  notify-telegram:
+    if: "contains(github.event.head_commit.message, 'release(')"
+    name: Notify Telegram
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Telegram message
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          format: "html"
+          message: |
+            <b>New release:</b>
+            <i>${{ github.event.head_commit.message }}</i>
+            <a href="https://github.com/${{ github.repository }}">Repository</a> | <a href="https://github.com/${{ github.repository }}/commit/${{github.sha}}">Commit link</a>
+          disable_web_page_preview: true
