@@ -7,12 +7,22 @@ jobs:
     name: Notify Telegram
     runs-on: ubuntu-latest
     steps:
+      - name: Fetch copy of repository
+        uses: actions/checkout@v4
+
       - name: Get commit scope
         uses: tmelliottjr/extract-regex-action@v1.5.0
         id: get-commit-scope
         with:
           input: ${{ github.event.head_commit.message }}
           regex: "release\\((?:(.*))\\)"
+
+      - name: Get mod version
+        uses: tmelliottjr/extract-regex-action@v1.5.0
+        id: get-mod-version
+        with:
+          input: ${{ github.event.head_commit.message }}
+          regex: "\\d+.\\d+.\\d+"
 
       - name: Send Telegram message
         uses: appleboy/telegram-action@master
