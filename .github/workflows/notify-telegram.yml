@@ -3,10 +3,17 @@ on: [push]
 jobs:
 
   notify-telegram:
-    if: "contains(github.event.head_commit.message, 'release(')"
+    if: "startsWith(github.event.head_commit.message, 'release')"
     name: Notify Telegram
     runs-on: ubuntu-latest
     steps:
+      - name: Get commit scope
+        uses: tmelliottjr/extract-regex-action@v1.5.0
+        id: get-commit-scope
+        with:
+          input: ${{ github.event.head_commit.message }}
+          regex: "release\\((?:(.*))\\)"
+
       - name: Send Telegram message
         uses: appleboy/telegram-action@master
         with:
@@ -14,7 +21,9 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: "html"
           message: |
-            <b>New release:</b>
+            <b>💫 New release${{ steps.get-commit-scope.outputs.resultString && format(' for {0}', fromJson(steps.get-commit-scope.outputs.resultArray)[1]) || '' }}:</b>
+
             <i>${{ github.event.head_commit.message }}</i>
+
             <a href="https://github.com/${{ github.repository }}">Repository</a> | <a href="https://github.com/${{ github.repository }}/commit/${{github.sha}}">Commit link</a>
           disable_web_page_preview: true
