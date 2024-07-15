@@ -12,17 +12,26 @@ jobs:
 
       - name: Get commit scope
         uses: tmelliottjr/extract-regex-action@v1.5.0
-        id: get-commit-scope
+        id: scope
         with:
           input: ${{ github.event.head_commit.message }}
           regex: "release\\((?:(.*))\\)"
 
       - name: Get mod version
         uses: tmelliottjr/extract-regex-action@v1.5.0
-        id: get-mod-version
+        id: version
         with:
           input: ${{ github.event.head_commit.message }}
-          regex: "\\d+.\\d+.\\d+"
+          regex: "(0|[1-9]\\d*)(\\.(0|[1-9]\\d*)){0,3}"
+
+      - name: Extract Changelog
+        if: ${{ steps.scope.outputs.resultString != '' && steps.version.outputs.resultString != '' }}
+        id: changelog
+        uses: nickohold/changelog-version-extractor@v1.0.0
+        with:
+          version: ${{ fromJson(steps.version.outputs.resultArray)[0] }}
+          version_prefix: "###"
+          changelog_path: "./${{ fromJson(steps.scope.outputs.resultArray)[1] }}/CHANGELOG.md"
 
       - name: Send Telegram message
         uses: appleboy/telegram-action@master
@@ -31,9 +40,12 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: "html"
           message: |
-            <b>💫 New release${{ steps.get-commit-scope.outputs.resultString && format(' for {0}', fromJson(steps.get-commit-scope.outputs.resultArray)[1]) || '' }}:</b>
+            <b>💫 New release${{ steps.scope.outputs.resultString && format(' for {0}', fromJson(steps.scope.outputs.resultArray)[1]) || '' }}:</b>
 
             <i>${{ github.event.head_commit.message }}</i>
 
-            <a href="https://github.com/${{ github.repository }}">Repository</a> | <a href="https://github.com/${{ github.repository }}/commit/${{github.sha}}">Commit link</a>
+            <b>CHANGELOG:</b>
+            <pre>${{ steps.changelog.outputs.changelog || 'Currently not available' }}</pre>
+
+            <a href="https://github.com/${{ github.repository }}">Repository</a> | <a href="https://github.com/${{ github.repository }}/commit/${{github.sha}}">Commit link</a>${{ steps.scope.outputs.resultString && format(' | <a href="https://github.com/{0}/raw/master/{1}/kurzdor.{2}_{3}.zip">Download</a>', github.repository, fromJson(steps.scope.outputs.resultArray)[1], fromJson(steps.scope.outputs.resultArray)[1], fromJson(steps.scope.outputs.resultArray)[1]) || '' }}
           disable_web_page_preview: true
