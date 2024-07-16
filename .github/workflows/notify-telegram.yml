@@ -47,5 +47,5 @@ jobs:
             <b>CHANGELOG:</b>
             <pre>${{ steps.changelog.outputs.changelog || 'Currently not available' }}</pre>
 
-            <a href="https://github.com/${{ github.repository }}">Repository</a> | <a href="https://github.com/${{ github.repository }}/commit/${{github.sha}}">Commit link</a>${{ steps.scope.outputs.resultString && format(' | <a href="https://github.com/{0}/raw/master/{1}/kurzdor.{2}_{3}.zip">Download</a>', github.repository, fromJson(steps.scope.outputs.resultArray)[1], fromJson(steps.scope.outputs.resultArray)[1], fromJson(steps.scope.outputs.resultArray)[1]) || '' }}
+            <a href="https://github.com/${{ github.repository }}">Repository</a> | <a href="https://github.com/${{ github.repository }}/commit/${{github.sha}}">Commit link</a>${{ steps.scope.outputs.resultString && format(' | <a href="https://github.com/{0}/raw/master/{1}/kurzdor.{2}_{3}.zip">Download</a>', github.repository, fromJson(steps.scope.outputs.resultArray)[1], fromJson(steps.scope.outputs.resultArray)[1], fromJson(steps.version.outputs.resultArray)[0]) || '' }}
           disable_web_page_preview: true
