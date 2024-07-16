@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 3.3.0
+### 3.3.0
 
 - Fixed crash related to missing battle type in ignorelist
 - Fixed battle booster incompatibility logic
