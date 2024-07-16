@@ -1,5 +1,9 @@
 name: Notify Telegram channel
-on: [push]
+on:
+  push:
+    branches:
+      - master
+
 jobs:
 
   notify-telegram:
