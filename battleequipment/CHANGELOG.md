@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.3.1
+
+= Add Races gamemode to ignorelist
+
 ### 3.3.0
 
 - Fixed crash related to missing battle type in ignorelist
