@@ -1,5 +1,12 @@
 # CHANGELOG
 
+### 3.4.0
+
+- Added logic for handling vehicle selection in Onslaught
+- Fixed logic to detect whether setup selection is available in Onslaught
+- Fixed possible TypeError in rare situations (can be unstable, please report any issues if you see `Player vehicle is None, please provide replay for this battle to developer!` in logs!)
+- Minor refactor
+
 ### 3.3.1
 
 = Add Races gamemode to ignorelist
