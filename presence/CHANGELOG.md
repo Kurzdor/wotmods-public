@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.0
+
+- Added support for Races gamemode
+
 ### 3.3.0
 
 - Support for WoT 1.25.1
