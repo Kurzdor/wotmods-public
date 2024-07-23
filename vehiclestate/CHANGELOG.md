@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.16.2
+
+- Added Races gamemode to ignorelist
+
 ### 1.16.1
 
 - Removed obsolete info logs on mod start
