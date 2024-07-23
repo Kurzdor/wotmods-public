@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.2
+
+- Added Races gamemode to ignorelist
+
 ### 1.4.1
 
 - Added Cosmic Event battles to ignore list
