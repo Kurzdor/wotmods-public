@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.5.0
+
+- Sync up against WoT 1.26.0.0
+
 ### 3.4.0
 
 - Added support for Races gamemode
