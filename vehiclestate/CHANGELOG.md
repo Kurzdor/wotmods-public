@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.16.3
+
+- Support additional postmortem mode since WoT 1.26.0.0
+
 ### 1.16.2
 
 - Added Races gamemode to ignorelist
