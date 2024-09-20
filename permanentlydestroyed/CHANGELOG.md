@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.0
+
+- Added ability to ignore some battle types, i.e. event battles
+
 ### 1.1.1
 
 - Minor cleanup
