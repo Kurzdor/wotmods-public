@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.16.4
+
+- Added internal support for Perfect Charge perk for shell speed
+
 ### 1.16.3
 
 - Support additional postmortem mode since WoT 1.26.0.0
@@ -35,7 +39,7 @@
 - Added ability to display dual accuracy (gun cooling) cooling delay for Japanese heavy tanks
 - Added `coolingDelayTimer` key to config
 - Updated localizations
-- Initial localization, view, controller and visibility system refactor
+- Initial prepartion for big localization, view, controller and visibility system refactor
 
 ### 1.13.2
 
