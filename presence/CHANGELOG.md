@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.6.1
+
+- Removed obsolete WT event related logic
+
 ### 3.6.0
 
 - Added support for Waffentrager: Reckoning event gamemode
