@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.6.0
+
+- Added support for Waffentrager: Reckoning event gamemode
+
 ### 3.5.0
 
 - Sync up against WoT 1.26.0.0
@@ -87,6 +91,10 @@
 - Updated localizations
 - Fixed issue when sometimes inLobby status with arena preview image would fire because of queueing handling rework
 - Refactored some parts of controller
+
+### 2.3.1
+
+- Synced up assets
 
 ### 2.3.0
 
