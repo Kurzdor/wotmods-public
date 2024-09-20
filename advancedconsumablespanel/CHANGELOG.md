@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.3
+
+- Added Event Battles gamemode to ignorelist
+
 ### 1.2.2
 
 - Added Races gamemode to ignorelist
