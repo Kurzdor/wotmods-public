@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.4
+
+- Added shell naming ignore logic for specific gamemodes
+
 ### 1.2.3
 
 - Added Event Battles gamemode to ignorelist
