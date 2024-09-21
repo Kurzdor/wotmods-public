@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.6.2
+
+- Fixed possible errors when switching event vehicles
+
 ### 3.6.1
 
 - Removed obsolete WT event related logic
