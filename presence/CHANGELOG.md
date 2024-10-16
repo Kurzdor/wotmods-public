@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.7.0
+
+- Initial Babylon Project (HW 2024 event mode) and Waffentrager (RU) support
+
 ### 3.6.2
 
 - Fixed possible errors when switching event vehicles
