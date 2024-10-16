@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.4.3
+
+- Localization implementation update
+- Cleanup
+
 ### 1.4.2
 
 - Added Races gamemode to ignorelist
