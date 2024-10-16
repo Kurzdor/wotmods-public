@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.2
+
+- Added Project Babylon and Waffentrager battles to ignore list
+
 ### 1.2.1
 
 - Fixed AttributeError issue causing minimap breakage
