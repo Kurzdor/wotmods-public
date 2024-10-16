@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.2.5
+
+- Localization implementation update
+- Cleanup
+
 ### 1.2.4
 
 - Added shell naming ignore logic for specific gamemodes
