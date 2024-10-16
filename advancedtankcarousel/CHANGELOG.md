@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 0.5.2
+
+- Localization implementation update
+
 ### 0.5.1 (WIP)
 
 - Removed obsolete info logs on mod start
