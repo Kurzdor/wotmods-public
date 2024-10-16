@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.2
+
+- Localization implementation update
+
 ### 1.2.1
 
 - Fixed logging
