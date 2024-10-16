@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 1.17.0
+
+- Added Twin Gun (Czech light tanks) support
+- Added extra strategic modes support
+- Localization implementation update
+
 ### 1.16.4
 
 - Added internal support for Perfect Charge perk for shell speed
