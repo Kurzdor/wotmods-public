@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.3
+
+- Fixed battles types injection bug
+
 ### 1.2.2
 
 - Added Project Babylon and Waffentrager battles to ignore list
