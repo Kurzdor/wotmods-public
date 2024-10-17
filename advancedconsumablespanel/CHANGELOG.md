@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.6
+
+- Fix debug log in flash
+
 ### 1.2.5
 
 - Localization implementation update
