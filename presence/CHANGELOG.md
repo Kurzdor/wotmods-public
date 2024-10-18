@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.8.0
+
+- Added support for gettext file extenders (i.e. halloween.arenas.extend for arenas for game's i18n)
+- Fixed issue with missing localization for Halloween event maps
+
 ### 3.7.0
 
 - Initial Babylon Project (HW 2024 event mode) and Waffentrager (RU) support
