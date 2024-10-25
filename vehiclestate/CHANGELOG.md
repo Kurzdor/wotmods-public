@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.17.1
+
+- Added support for extra dispersion info arguments
+- Minor cleanup
+
 ### 1.17.0
 
 - Added Twin Gun (Czech light tanks) support
