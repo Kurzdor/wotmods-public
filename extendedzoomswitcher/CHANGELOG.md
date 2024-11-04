@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.3.3
+
+- Fix missing notification when switching zoom
+
 ### 2.3.2
 
 - Localization implementation update
