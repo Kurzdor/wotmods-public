@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.4
+
+- Added Grinch gamemode to ignorelist
+
 ### 1.4.3
 
 - Localization implementation update
