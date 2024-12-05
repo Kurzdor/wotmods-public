@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 3.9.0
+
+- Initial Grinch (Winter Raid) event support
+- Refactor controller's event attaching lifecycle
+- Cleanup
+
 ### 3.8.0
 
 - Added support for gettext file extenders (i.e. halloween.arenas.extend for arenas for game's i18n)
