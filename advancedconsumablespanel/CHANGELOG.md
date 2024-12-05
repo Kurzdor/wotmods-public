@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.7
+
+- Added Grinch battles to ignorelist
+
 ### 1.2.6
 
 - Fix debug log in flash
