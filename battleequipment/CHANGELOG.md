@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.2
+
+- Added Grinch battles to ignore list
+
 ### 3.4.1
 
 - Added Project Babylon and Waffentrager battles to ignore list
