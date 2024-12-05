@@ -1,8 +1,12 @@
 # CHANGELOG
 
+### 1.2.2
+
+- Added Grinch battles to ignore list
+
 ### 1.2.3
 
-- Fixed battles types injection bug 
+- Fixed battles types injection bug
 
 ### 1.2.2
 
