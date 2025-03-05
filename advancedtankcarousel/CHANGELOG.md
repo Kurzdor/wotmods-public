@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 0.5.3
+
+- Minor update
+
 ### 0.5.2
 
 - Localization implementation update
@@ -28,3 +32,4 @@
 - First public release
 - Updated localizations
 - Cleaned up localizations
+
