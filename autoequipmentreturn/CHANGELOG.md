@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.1.5
+
+- Fixed accidentally removed critical line
+
 ### 1.1.4
 
 - Fixed issue where wrong cache path was used
