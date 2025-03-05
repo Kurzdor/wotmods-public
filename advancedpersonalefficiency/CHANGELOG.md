@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.5
+
+- Minor update
+
 ### 1.4.4
 
 - Added Grinch gamemode to ignorelist
@@ -82,3 +86,4 @@
 ### 1.0.0
 
 - Initial public release
+
