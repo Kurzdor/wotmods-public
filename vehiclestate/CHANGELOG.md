@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.17.2
+
+- Fixed AttributeError on battle start related to WoT 1.28 changes
+- Minor update
+
 ### 1.17.1
 
 - Added support for extra dispersion info arguments
