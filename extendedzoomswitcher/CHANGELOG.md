@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.3.4
+
+- Minor update
+
 ### 2.3.3
 
 - Fix missing notification when switching zoom
@@ -35,3 +39,4 @@
 ### v2.0.0
 
 - Initial public release
+
