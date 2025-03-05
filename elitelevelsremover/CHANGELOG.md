@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.5.3
+
+- Minor update
+
 ### 1.5.2
 
 - Localization implementation update
@@ -61,3 +65,4 @@
 
 - Initial release
 - Mod removes elite levels (i.e. prestige) icons in battle (on battleLoading, player panels and fullStats on Tab key)
+
