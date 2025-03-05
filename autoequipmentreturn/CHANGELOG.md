@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.1.4
+
+- Fixed issue where wrong cache path was used
+
 ### 1.1.3
 
 - Minor update
