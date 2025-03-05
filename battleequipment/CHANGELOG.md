@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.4.3
+
+- Fixed AttributeError on battle start related to WoT 1.28 changes
+- Minor update
+
 ### 3.4.2
 
 - Added Grinch battles to ignore list
@@ -231,3 +236,4 @@
 ### 1.5.0
 
 - Fixed a bug when second preset is used and player doesn't have any battle boosters in any presets
+
