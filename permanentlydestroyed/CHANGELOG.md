@@ -1,6 +1,6 @@
 # CHANGELOG
 
-### 1.2.2
+### 1.2.4
 
 - Added Grinch battles to ignore list
 
@@ -31,3 +31,4 @@
 ### 1.0.0
 
 - Initial release
+
