@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.9.1
+
+- Minor update
+
 ### 3.9.0
 
 - Initial Grinch (Winter Raid) event support
