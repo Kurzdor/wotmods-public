@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.1.3
+
+- Minor update
+
 ### 1.1.2
 
 - Localization implementation update
@@ -33,3 +37,4 @@
 ### 1.0.0
 
 - Initial release
+
