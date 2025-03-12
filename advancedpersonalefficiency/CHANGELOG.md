@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.6
+
+- Added Cosmic Event gamemode to ignorelist
+
 ### 1.4.5
 
 - Minor update
