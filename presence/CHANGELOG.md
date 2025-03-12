@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.10.0
+
+- Restored Cosmic Event support
+
 ### 3.9.1
 
 - Minor update
