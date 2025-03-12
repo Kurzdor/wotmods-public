@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.4
+
+- Added Cosmic Event to ignore list
+
 ### 3.4.3
 
 - Fixed AttributeError on battle start related to WoT 1.28 changes
