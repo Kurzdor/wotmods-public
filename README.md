@@ -18,7 +18,7 @@ Modifications for World of Tanks
 - [Advanced Personal Efficiency](./advancedpersonalefficiency/): Extends default personal efficiency counters near damage panel
 - [Advanced Tank Carousel (WIP)](./advancedtankcarousel/): Enhance your tank carousel
 - [Auto Equipment Return](./autoequipmentreturn/): Auto equipment return with WoT Plus
-- [Battle Equipment](./battleEquipment/): Show current equipment preset in battle
+- [Battle Equipment](./battleequipment/): Show current equipment preset in battle
 - [Elite Levels Remover](./elitelevelsremover/): Visually removes Elite Levels (i.e. Prestige) system from every possible place in game
 - [Extended Zoom Switcher](./extendedzoomswitcher/): Quick extended zoom switcher by hotkey
 - [Free XP Helper](./freexphelper/): Helper for free XP exchange window to prevent exchanging XP for non-fully researched or progressed vehicles
