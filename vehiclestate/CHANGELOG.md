@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.17.3
+
+- Added Fall Tanks (Neon Raid) gamemode to ignorelist
+
 ### 1.17.2
 
 - Fixed AttributeError on battle start related to WoT 1.28 changes
