@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.7
+
+- Added Fall Tanks (Neon Raid) gamemode to ignorelist
+
 ### 1.4.6
 
 - Added Cosmic Event gamemode to ignorelist
