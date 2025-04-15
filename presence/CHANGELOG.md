@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.11.0
+
+- Neon Raid event support
+
 ### 3.10.1
 
 - Hotfix for localization loading (wrong path since 3.9.1)
