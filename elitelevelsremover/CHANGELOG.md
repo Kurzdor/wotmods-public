@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.6.0
+
+- Update for new tab screen window
+
 ### 1.5.3
 
 - Minor update
