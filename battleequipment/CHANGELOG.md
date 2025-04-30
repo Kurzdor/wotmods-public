@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.6
+
+- Added Historical Battles gamemode to ignorelist (Lesta)
+
 ### 3.4.5
 
 - Added Fall Tanks (Neon Raid) gamemode to ignorelist
