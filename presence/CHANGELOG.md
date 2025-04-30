@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.12.0
+
+- Historical Battles 2025 event support (Lesta)
+
 ### 3.11.0
 
 - Neon Raid event support
