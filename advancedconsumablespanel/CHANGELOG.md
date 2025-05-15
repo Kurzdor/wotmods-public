@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.11
+
+- Added Last Stand gamemode to ignorelist
+
 ### 1.2.10
 
 - Added Fall Tanks (Neon Raid) gamemode to ignorelist
