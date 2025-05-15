@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.7
+
+- Added Last Stand gamemode to ignorelist
+
 ### 3.4.6
 
 - Added Historical Battles gamemode to ignorelist (Lesta)
