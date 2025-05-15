@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.13.0
+
+- Last Stand event support
+
 ### 3.12.0
 
 - Historical Battles 2025 event support (Lesta)
