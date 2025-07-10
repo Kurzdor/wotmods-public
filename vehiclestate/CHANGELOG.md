@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.17.4
+
+- Make shell/gun caliber output a bit nicer
+
 ### 1.17.3
 
 - Added Fall Tanks (Neon Raid) gamemode to ignorelist
