@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.7.0
+
+- Update for new WoT 2.0 Hangar interface: added option to remove elite levels from carousel cells and removed deprecated options
+
 ### 1.6.0
 
 - Update for new tab screen window
