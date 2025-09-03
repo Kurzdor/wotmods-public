@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.5
+
+- Added Last Stand and Waffentrager battles to ignore list
+
 ### 1.2.4
 
 - Added Grinch battles to ignore list
