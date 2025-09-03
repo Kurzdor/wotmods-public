@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.14.0
+
+- Added Waffentrager support
+
 ### 3.13.0
 
 - Last Stand event support
