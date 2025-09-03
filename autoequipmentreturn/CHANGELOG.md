@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.1.6
+
+- Minor fix for renamed attribute
+
 ### 1.1.5
 
 - Fixed accidentally removed critical line
