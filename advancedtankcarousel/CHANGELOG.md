@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 0.6.0
+
+- Mod is deprecated for WoT since the release 2.0 due to carousel rework and no need for 3+ rows
+
 ### 0.5.3
 
 - Minor update
