@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.14.1
+
+- Fixed issues with wrong hook target for handling White Tiger event
+- Fixed import errors related to renamed wg -prefixed modules
+
 ### 3.14.0
 
 - Added Waffentrager support
