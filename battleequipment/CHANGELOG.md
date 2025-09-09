@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.9
+
+- Minor update
+
 ### 3.4.8
 
 - Added White Tiger gamemode to ignorelist
