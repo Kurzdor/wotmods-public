@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.15.0
+
+- Added Halloween and Portal support
+
 ### 3.14.1
 
 - Fixed issues with wrong hook target for handling White Tiger event
