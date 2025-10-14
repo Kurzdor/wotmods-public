@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.10
+
+- Added Forbidden Zone and Portal gamemode to ignorelist
+
 ### 3.4.9
 
 - Minor update
