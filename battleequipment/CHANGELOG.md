@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.11
+
+- Fixed client crashing when player is observer
+
 ### 3.4.10
 
 - Added Forbidden Zone and Portal gamemode to ignorelist
