@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.7
+
+- Added Steel Hunter battles to ignore list
+
 ### 1.2.6
 
 - Added Forbidden Zone and Portal battles to ignore list
