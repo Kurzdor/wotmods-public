@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.6.0
+
+- Added Ukranian localization
+- Refactored localizations
+
 ### 1.5.3
 
 - Minor update
