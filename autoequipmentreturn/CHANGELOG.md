@@ -1,5 +1,17 @@
 # CHANGELOG
 
+### 1.2.0
+
+- Added ability to quickly demount ANY equipment to save it later for auto return (auto return doesn't work for deluxe and enhanced equipment) (original idea: panikaxa, enhancements: poliroid)
+- Added ability to one-click demount ALL equipment from vehicle in carousel context menu
+- **WARNING: BOTH FEATURES MAY ASK YOU TO SPEND CURRENCY (BONDS or SCRAP) IF YOU ARE TRYING TO DEMOUNT NON SUBCRIPTION-SUPPORTED EQUIPMENT WHEN DIRECTLY TRY TO DEMOUNT ALL EQUIPMENT OR SINGLE ONE FROM OTHER VEHICLE USING RIGHT MOUSE BUTTON IN TANK SETUP**
+- Enhanced system messages with detailed information about what mod did or what happened
+- Fixed issue with cache saving on game exit
+- Fixed auto return toggle logic, now it will remove any saved data about devices instead of keeping unsynchronized (possibly) devices state in cache
+- Fixed cases when equipment layout wouldn't update when same equipment in slot was installed in other setup
+- Removed logic that automatically disabled auto return when WoT Plus subscription was cancelled or not active due to cancellation. This should also fix some issues when saved devices were desynchronized
+- Refactored codebase
+
 ### 1.1.6
 
 - Minor fix for renamed attribute
