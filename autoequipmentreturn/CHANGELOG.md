@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.3.0
+
+- Added sorting to the installed vehicles list for required equipment to pick from (currently sorted by nation, type, level and name in ascending order)
+
 ### 1.2.0
 
 - Added ability to quickly demount ANY equipment to save it later for auto return (auto return doesn't work for deluxe and enhanced equipment) (original idea: panikaxa, enhancements: poliroid)
