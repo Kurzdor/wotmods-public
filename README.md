@@ -7,6 +7,12 @@
 ## EN
 Modifications for World of Tanks
 
+### Support/Release Notifications
+
+Donate: https://donate.kurzdor.me/
+Discord: https://discord.gg/3WBstp8nKn
+Telegram Release Notifications (automatic): https://t.me/kurzdor_mods_notify
+
 ### Installation
 
 1. Download .zip archive from modification folder
@@ -45,6 +51,12 @@ and those whom I could forget
 
 ## RU
 Модификации для клиента World of Tanks
+
+### Поддержка/оповещения об релизах
+
+Поблагодарить финансово сюда: https://donate.kurzdor.me/
+Поддержка происходит на Discord сервере: https://discord.gg/3WBstp8nKn
+Автоматические оповещения об релизе новой версии модов в Telegram: https://t.me/kurzdor_mods_notify
 
 ### Установка модов
 
