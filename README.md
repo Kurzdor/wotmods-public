@@ -10,7 +10,7 @@ Modifications for World of Tanks
 ### Support/Release Notifications
 
 <p align="center">
-  [Donate](https://donate.kurzdor.me/) | [Discord support server](https://discord.gg/3WBstp8nKn) | [Automatic Telegram release notifications](https://t.me/kurzdor_mods_notify)
+  <a href="https://donate.kurzdor.me">Donate</a> | <a href="https://discord.gg/3WBstp8nKn">Discord support server</a> | <a href="https://t.me/kurzdor_mods_notify">Automatic Telegram release notifications</a>
 </p>
 
 ### Installation
@@ -55,7 +55,7 @@ and those whom I could forget
 ### Поддержка/оповещения об релизах
 
 <p align="center">
-  [Поблагодарить финансово сюда](https://donate.kurzdor.me/) | [Поддержка происходит на Discord сервере](https://discord.gg/3WBstp8nKn) | [Автоматические оповещения об релизе новой версии модов в Telegram](https://t.me/kurzdor_mods_notify)
+  <a href="https://donate.kurzdor.me">Поблагодарить финансово сюда</a> | <a href="https://discord.gg/3WBstp8nKn">Поддержка происходит на Discord сервере</a> | <a href="https://t.me/kurzdor_mods_notify">Автоматические оповещения об релизе новой версии модов в Telegram</a>
 </p>
 
 ### Установка модов
