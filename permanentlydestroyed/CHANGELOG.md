@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.8
+
+- Added Grinch battles to ignore list
+
 ### 1.2.7
 
 - Added Steel Hunter battles to ignore list
