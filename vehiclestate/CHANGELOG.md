@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.17.5
+
+- Fixed error that occur with shell info gather for MT 1.39
+
 ### 1.17.4
 
 - Make shell/gun caliber output a bit nicer
