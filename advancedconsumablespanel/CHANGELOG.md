@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.12
+
+- Added Grinch battles to ignorelist
+
 ### 1.2.11
 
 - Added Last Stand gamemode to ignorelist
