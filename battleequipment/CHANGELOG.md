@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.12
+
+- Added Grinch 2025 battles to ignore list
+
 ### 3.4.11
 
 - Fixed client crashing when player is observer
