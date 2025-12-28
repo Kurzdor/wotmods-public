@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.3.0
+
+- Added support for vehicle change/respawn (i.e. reset for shell type labels)
+
 ### 1.2.12
 
 - Added Grinch battles to ignorelist
