@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.3.1
+
+- Added Jade Emperor's Challenge gamemode (***damn, it's so lame just to drop lootboxes, bruh***) to ignorelist
+
 ### 1.3.0
 
 - Added support for vehicle change/respawn (i.e. reset for shell type labels)
