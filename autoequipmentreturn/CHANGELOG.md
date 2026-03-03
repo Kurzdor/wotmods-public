@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.3.1
+
+- Cleanup
+
 ### 1.3.0
 
 - Added sorting to the installed vehicles list for required equipment to pick from (currently sorted by nation, type, level and name in ascending order)
