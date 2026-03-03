@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.15.1
+
+- Fixes for WoT 2.2
+
 ### 3.15.0
 
 - Added Halloween and Portal support
