@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.9
+
+- Added Jade Emperor's Challenge gamemode (***damn, it's so lame just to drop lootboxes, bruh***) to ignorelist
+
 ### 1.4.8
 
 - Added Grinch gamemode to ignorelist
