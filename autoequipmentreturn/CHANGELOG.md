@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.4.1
+
+- Fix issues that were missed in previous update (isFreeDeluxeEquipmentDemountingEnabled issues)
+
 ### 1.4.0
 
 - Upstream to WoT 2.2 changes (WoT Plus Pro changes)
