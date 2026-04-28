@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.4.13
+
+- Code cleanup
+
 ### 3.4.12
 
 - Added Grinch 2025 battles to ignore list
