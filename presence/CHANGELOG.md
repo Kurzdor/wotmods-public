@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 4.0.0
+
+- Fixed problems related to activity being stuck after game client destroying
+
 ### 3.15.1
 
 - Fixes for WoT 2.2
