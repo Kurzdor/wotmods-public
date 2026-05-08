@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.3.0
+
+- Fixes for issues when no custom badges set in settings (especially in Onslaught or event battles)
+
 ### 1.2.3
 
 - Minor update
