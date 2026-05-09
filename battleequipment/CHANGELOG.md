@@ -1,5 +1,12 @@
 # CHANGELOG
 
+### 3.5.0
+
+- Fixed issue when panel was visible after reconnection when player died
+- Fixed issues when hotkey was not defined in config (fallback to default with saving)
+- Refactored settings handling from ModSettingsAPI
+- Stability enhancements and code cleanup
+
 ### 3.4.13
 
 - Code cleanup
