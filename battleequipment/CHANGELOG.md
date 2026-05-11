@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.6.02
+
+- Fix Lesta initialization crash
+
 ### 3.6.01
 
 - Fixed issue with hotkey migration after changing it in ModSettingsAPI
