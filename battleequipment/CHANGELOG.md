@@ -1,5 +1,11 @@
 # CHANGELOG
 
+### 3.6.0
+
+- Added ability to show active state for stereoscope and camoflauge net (also hides vanilla)
+- Fixed issue related to settings loading and hotkey handling
+- Refactored UI flow
+
 ### 3.5.0
 
 - Fixed issue when panel was visible after reconnection when player died
