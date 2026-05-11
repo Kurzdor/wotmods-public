@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.6.01
+
+- Fixed issue with hotkey migration after changing it in ModSettingsAPI
+
 ### 3.6.0
 
 - Added ability to show active state for stereoscope and camoflauge net (also hides vanilla)
