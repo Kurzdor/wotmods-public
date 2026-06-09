@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.6.03
+
+- Fix for visibility in video camera (saw in somebody's video)
+
 ### 3.6.02
 
 - Fix Lesta initialization crash
