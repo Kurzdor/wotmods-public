@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.8.00
+
+- Mod refactor
+- Update for WoT 2.3.1.0 changes
+
 ### 1.7.3
 
 - Minor update
