@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.8.00
+
+- Improved stability
+- Minor refactor
+
 ### 3.7.00
 
 - Minor refactor
