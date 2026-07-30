@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.9.00
+
+- Added support for Last Stand mode - Now panel forces right position in Last Stand mode
+- Fixed bug with game modes ignorelist
+
 ### 3.8.00
 
 - Improved stability
