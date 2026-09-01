@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.8.01
+
+- Fixed crash on startup
+
 ### 1.8.00
 
 - Mod refactor
