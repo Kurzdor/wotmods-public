@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.10.00
+
+- Hide panel while prebattle highlights screen is open
+
 ### 3.9.00
 
 - Added support for Last Stand mode - Now panel forces right position in Last Stand mode
