@@ -1,5 +1,21 @@
 # CHANGELOG
 
+### 2.1.00
+
+- Restored panel visibility handling for prebattle highlights
+
+### 2.0.00
+
+- Replaced GUIFlash with the mod's own Scaleform view
+- Split battle state handling into focused feature plugins
+- Added sniper-only display mode
+- Added independent health and shell info switches
+- Added a persistent panel minimizer
+- Reorganized templates and aiming colors into their feature config sections
+- Fixed initial panel visibility while keeping the aiming timer hidden until battle start
+- Removed the obsolete visibility toggle hotkey
+- Added the GUIFlash-style hover background and border to the Animate panel
+
 ### 1.17.5
 
 - Fixed error that occur with shell info gather for MT 1.39
