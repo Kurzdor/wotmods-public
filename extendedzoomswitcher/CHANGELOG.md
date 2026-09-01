@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.4.00
+
+- Minor update
+
 ### 2.3.4
 
 - Minor update
