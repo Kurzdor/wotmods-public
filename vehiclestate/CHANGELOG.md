@@ -1,5 +1,15 @@
 # CHANGELOG
 
+### 2.3.00
+
+- Refactored logic for data processing after view population
+- Changed the panel hover border color to white
+
+### 2.2.00
+
+- Added a background and dedicated hit area to the panel minimizer
+- Removed the Gameface menu detection that could quit the client
+
 ### 2.1.00
 
 - Restored panel visibility handling for prebattle highlights
