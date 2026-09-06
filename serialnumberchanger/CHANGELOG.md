@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.9.00
+
+- Fixed possible crash when resetting cached values
+- Mod refactor
+
 ### 1.8.01
 
 - Fixed crash on startup
