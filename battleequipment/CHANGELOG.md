@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 3.11.00
+
+- Refactored logic for data processing after view population
+- Fixed minimizer position when the setup index badge is shown
+
 ### 3.10.00
 
 - Hide panel while prebattle highlights screen is open
