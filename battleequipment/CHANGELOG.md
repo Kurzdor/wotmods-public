@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### 3.12.00
+
+- Fixed issue with losing slot components when active state was changed (in case of stereoscope and camoflauge net)
+- Refactor
+
+### 3.11.01
+
+- Updated flash components registration for WoT 2.4.1 CT
+
 ### 3.11.00
 
 - Refactored logic for data processing after view population
