@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.12.02
+
+- Disabled panel in Black Signal battles
+
 ### 3.12.00
 
 - Fixed issue with losing slot components when active state was changed (in case of stereoscope and camoflauge net)
