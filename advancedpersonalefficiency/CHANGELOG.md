@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.4.10
+
+- Updated flash components registration for WoT 2.4.1 CT
+- Internal code cleanup
+
 ### 1.4.9
 
 - Added Jade Emperor's Challenge gamemode (***damn, it's so lame just to drop lootboxes, bruh***) to ignorelist
