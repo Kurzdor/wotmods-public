@@ -1,5 +1,13 @@
 # CHANGELOG
 
+### 1.5.0
+
+- Improved Lesta client support
+- Added initial settings (modsSettingsApi) with auto return delay to avoid return spam when quickly switching vehicles or setups
+- Added localizations for 20 languages
+- Fixed returning equipment that isn't free to demount
+- Fixed auto return retry when caches aren't loaded yet
+
 ### 1.4.1
 
 - Fix issues that were missed in previous update (isFreeDeluxeEquipmentDemountingEnabled issues)
