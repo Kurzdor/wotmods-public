@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 4.1.00
+
+- Fixed rare error when updating Discord activity
+
 ### 4.0.0
 
 - Fixed problems related to activity being stuck after game client destroying
