@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.8.01
+
+- Internal code cleanup
+
 ## 1.8.00
 
 - Cleanup
