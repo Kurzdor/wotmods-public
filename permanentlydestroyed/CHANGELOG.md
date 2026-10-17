@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.2.09
+
+- Updated for WoT 2.4.1
+
 ### 1.2.8
 
 - Added Grinch battles to ignore list
