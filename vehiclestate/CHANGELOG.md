@@ -1,5 +1,17 @@
 # CHANGELOG
 
+### 2.4.00
+
+- Added targeting info with distance, dispersion and shell flight time to the aiming point
+- Added view range info
+- Added cooling delay timer template
+- Added `shellSplash`, `aimingTime` and `lostHealth` macroses
+- Localized N/A values
+
+### 2.3.01
+
+- Updated flash components registration for WoT 2.4.1 CT
+
 ### 2.3.00
 
 - Refactored logic for data processing after view population
