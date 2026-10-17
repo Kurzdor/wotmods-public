@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.4.01
+
+- Internal code cleanup
+
 ### 2.4.00
 
 - Minor update
