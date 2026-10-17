@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 4.1.01
+
+- Fixed event battle types and maps shown as localization keys
+- Added Halloween 2026 and Portal battle type names
+
 ### 4.1.00
 
 - Fixed rare error when updating Discord activity
