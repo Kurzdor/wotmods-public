@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.9.01
+
+- Internal code cleanup
+
 ### 1.9.00
 
 - Fixed possible crash when resetting cached values
