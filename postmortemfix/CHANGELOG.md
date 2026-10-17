@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 1.0.02
+
+- Log an error when required game modules can't be imported
+
 ### 1.0.1
 
 - Fixes for 1.26.0.0 WG client
