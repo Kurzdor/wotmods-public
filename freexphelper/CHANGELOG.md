@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.0.01
+
+- Updated for WoT 2.4.1
+
 ### 2.0.0
 
 - Due to free xp exchange window rework on WG client, it now removes entries which don't have fully researched vehicle post progression
