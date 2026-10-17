@@ -1,5 +1,10 @@
 # CHANGELOG
 
+### 1.6.01
+
+- Added localizations for 21 languages
+- Internal code cleanup
+
 ### 1.6.0
 
 - Added Ukranian localization
